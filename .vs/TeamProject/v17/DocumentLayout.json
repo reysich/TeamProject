@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stepy\\source\\repos\\TeamProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9600DB0-A997-4646-82C9-79A815923E81}|TeamProject\\TeamProject.csproj|c:\\users\\stepy\\source\\repos\\teamproject\\teamproject\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9600DB0-A997-4646-82C9-79A815923E81}|TeamProject\\TeamProject.csproj|solutionrelative:teamproject\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9600DB0-A997-4646-82C9-79A815923E81}|TeamProject\\TeamProject.csproj|c:\\users\\stepy\\source\\repos\\teamproject\\teamproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9600DB0-A997-4646-82C9-79A815923E81}|TeamProject\\TeamProject.csproj|solutionrelative:teamproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9600DB0-A997-4646-82C9-79A815923E81}|TeamProject\\TeamProject.csproj|c:\\users\\stepy\\source\\repos\\teamproject\\teamproject\\researchteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9600DB0-A997-4646-82C9-79A815923E81}|TeamProject\\TeamProject.csproj|solutionrelative:teamproject\\researchteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9600DB0-A997-4646-82C9-79A815923E81}|TeamProject\\TeamProject.csproj|c:\\users\\stepy\\source\\repos\\teamproject\\teamproject\\paper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9600DB0-A997-4646-82C9-79A815923E81}|TeamProject\\TeamProject.csproj|solutionrelative:teamproject\\paper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResearchTeam.cs",
+              "DocumentMoniker": "C:\\Users\\stepy\\source\\repos\\TeamProject\\TeamProject\\ResearchTeam.cs",
+              "RelativeDocumentMoniker": "TeamProject\\ResearchTeam.cs",
+              "ToolTip": "C:\\Users\\stepy\\source\\repos\\TeamProject\\TeamProject\\ResearchTeam.cs",
+              "RelativeToolTip": "TeamProject\\ResearchTeam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T05:28:44.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Paper.cs",
+              "DocumentMoniker": "C:\\Users\\stepy\\source\\repos\\TeamProject\\TeamProject\\Paper.cs",
+              "RelativeDocumentMoniker": "TeamProject\\Paper.cs",
+              "ToolTip": "C:\\Users\\stepy\\source\\repos\\TeamProject\\TeamProject\\Paper.cs",
+              "RelativeToolTip": "TeamProject\\Paper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T05:28:33.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\stepy\\source\\repos\\TeamProject\\TeamProject\\Person.cs",
+              "RelativeDocumentMoniker": "TeamProject\\Person.cs",
+              "ToolTip": "C:\\Users\\stepy\\source\\repos\\TeamProject\\TeamProject\\Person.cs",
+              "RelativeToolTip": "TeamProject\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T05:28:24.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\stepy\\source\\repos\\TeamProject\\TeamProject\\Program.cs",
+              "RelativeDocumentMoniker": "TeamProject\\Program.cs",
+              "ToolTip": "C:\\Users\\stepy\\source\\repos\\TeamProject\\TeamProject\\Program.cs",
+              "RelativeToolTip": "TeamProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T05:28:15.119Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
